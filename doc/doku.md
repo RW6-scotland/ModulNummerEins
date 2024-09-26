@@ -4,11 +4,18 @@
 Ich habe in Modul 1 nun alle Konzepte, Klassen und Methode analysiert 
 und ebenfalls großteils verstanden. 
 
-Nun habe ich auch wieder Verstanden für was "enums" gut sind.
 
-Hier die Merkmale von "enums":
+### Hier nochmals die Merkmale von "enums":
 - Sie entahlten nur festgelegte Werte die man nicht ändern kann
 - Es ist somit nur eine bestimmte Anzahl von Optionen möglich
 
 
+## Modul 2
+Ich schreibe diese Modul auch noch in diese Dokumentation, 
+da bei Modul 2 keine Projekt erstellt wird.
+
+
+### 1. Vortrag Vererbung
+- Parameterübergabe - ich kann eine Objekt vom Typ Auto mitgeben, obwohl es ein Fahrzeug Objekt startet. Das Funktioniert nur wenn Auto von Fahrzeug erbt.
+- Subtyping - Ich kann alo ein Objekt vom Typ Auto in eine Variable speichern vom Typ Fahrzeug, wenn Auto von Fahrzeug erbt.
 
