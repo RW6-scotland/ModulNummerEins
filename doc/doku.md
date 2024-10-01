@@ -32,6 +32,13 @@ da bei Modul 2 keine Projekt erstellt wird.
 - protected - ich kann nur in dieser Klasse und in den Subklassen darauf zugreifen
 - private - ich kann nur in dieser Klasse darauf zugreifen
 
+### 3. a Zentrale Konzepte
+
+#### Konstiutive Teilkonzepte des Methodenpolymorphismus
+- Vererbung
+- Überschreibung von Methoden
+- Ersetzbarkeit
+- Dynamische Bindung
 
 
 
